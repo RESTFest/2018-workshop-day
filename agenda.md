@@ -12,41 +12,42 @@ What are Web APIs and how do you design and build them? And what do all these ac
     - CRUD’s roots (databases)
     - The advantage of CRUD
     - The downsides of CRUD
-    - _Exercise: CRUD all the things_
+    - _Exercise: Desing the ToDo CRUD API_
   - **BREAK** (20min)
   - *GraphQL for the new kids* (40min)
     - Query-Style APIs Pros & Cons
     - Client View
     - Server View
-    - _Exercise: Design a GraphQL API_
+    - _Exercise: Design the ToDo GraphQL API_
   - *Hypermedia for the dedicated* (40min)
     - What/Why Hypermedia?
     - Link-centric formats (Atom, HAL, etc.)
     - Form-centric formats (Siren, Cj, etc.)
-    - _Exercise: Hypermedia all the things_
+    - _Exercise: Design the ToDo Hypermedia_
 - **LUNCH** (Noon to 1PM)
 - **AFTERNOON** (1PM-4PM)
   - *Anatomy of a Web API Server* (40min)
     - The Request/Response Loop
     - Data & Objects
     - Resources & Representation
-    - _Exercise: ???_
+    - _Exercise: Map out the ToDo Server_
   - *Anatomy of a Web API Client* (40min)
     - The Request/Response Loop
     - URLs, Methods, and Actions
     - Formats and Representations
-    - _Exercise: ???_
+    - _Exercise: Map out the ToDo ClientApp_
   - *BREAK* (20min)
   - *API Definition Languages* (40min)
     - WSDL/WADL
     - Swagger/RAML/Apiary
     - ALPS/DCAP
-    - _Exercise: Define all the things_
+    - _Exercise: Describe the ToDo API_
   - *The Hard Stuff* (40min)
+    - Documentation
     - Versioning
     - Discovery
     - Security
-    - _Exericise: ???_
+    - _Exericise: Supporting the ToDo API_
 
 Things not covered above that would be interesting:
 
