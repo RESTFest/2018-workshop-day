@@ -13,6 +13,7 @@ What are Web APIs and how do you design and build them? And what do all these ac
     - The advantage of CRUD
     - The downsides of CRUD
     - _Exercise: Desing the ToDo CRUD API_
+    - [Sample Solution](https://github.com/apiacademy/tasks-crud)
   - **BREAK** (20min)
   - *GraphQL for the new kids* (40min)
     - Query-Style APIs Pros & Cons
@@ -25,7 +26,7 @@ What are Web APIs and how do you design and build them? And what do all these ac
     - Link-centric formats (Atom, HAL, etc.)
     - Form-centric formats (Siren, Cj, etc.)
     - _Exercise: Design the ToDo Hypermedia_
-    - [Sample Solution](https://github.com/apiacademy/hyper-todo)
+    - [Sample Solution](https://github.com/apiacademy/tasks-hypermedia)
 - **LUNCH** (Noon to 1PM)
 - **AFTERNOON** (1PM-4PM)
   - *Anatomy of a Web API Server* (40min)
