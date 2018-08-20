@@ -25,6 +25,7 @@ What are Web APIs and how do you design and build them? And what do all these ac
     - Link-centric formats (Atom, HAL, etc.)
     - Form-centric formats (Siren, Cj, etc.)
     - _Exercise: Design the ToDo Hypermedia_
+    - [Sample Solution](https://github.com/apiacademy/hyper-todo)
 - **LUNCH** (Noon to 1PM)
 - **AFTERNOON** (1PM-4PM)
   - *Anatomy of a Web API Server* (40min)
