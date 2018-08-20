@@ -19,6 +19,7 @@ What are Web APIs and how do you design and build them? And what do all these ac
     - Client View
     - Server View
     - _Exercise: Design the ToDo GraphQL API_
+    - [Sample Solution](https://github.com/mamund/graphql-todo)
   - *Hypermedia for the dedicated* (40min)
     - What/Why Hypermedia?
     - Link-centric formats (Atom, HAL, etc.)
