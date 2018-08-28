@@ -50,7 +50,23 @@ What are Web APIs and how do you design and build them? And what do all these ac
     - Versioning
     - Discovery
     - Security
-    - _Exericise: Supporting the ToDo API_
+    - _Exericise: Supporting the ToDo API_    
+- **Alternative Afternoon** (1PM-4PM)
+  - Starting with an API definition, we will identify and discuss common REST API design practices and patterns. Topics covered:
+    - API definition languages such as Open API Spec (Swagger), RAML, API Blueprint, ALPS, etc
+    - Resources & Representation
+    - Links
+    - Request/Response Loop
+  - Next, we will build a client against the API definition. This will be hands-on, but will also include a discussion at the end on what we learned and feedback we would give the API designer. Topics covered:
+    - URLs, Methods, and Actions
+    - Formats and Representations
+    - Following Links
+    - Usability
+  - Finally, we will update the API spec based on changes we identified that we wanted to make in the previous section, and then build a server to that spec. This will be followed up by a discussion on the pros and cons of the changes made server-side, and how participants would take this further. Topics covered:
+    - Versioning
+    - Security
+    - Testing
+ 
 
 Things not covered above that would be interesting:
 
