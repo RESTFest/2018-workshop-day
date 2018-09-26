@@ -7,6 +7,7 @@
 What are Web APIs and how do you design and build them? And what do all these acronyms mean: REST, CRUD, Hypermedia, GraphQL, AOI, Swagger, RAML, Blueprint, OAuth?  Join the RESTFest team for a wide-ranging and in-depth workshop that touches on the basics of Web APIs, what makes them work, and how you can navigate the alphabet soup of standards and practices that make up this essential part of the World Wide Web.
 
 - **MORNING** (9-Noon)
+  - [Morning Slides (PDF)]https://github.com/RESTFest/2018-workshop-day/blob/master/2018-09-restfest.pdf
   - *REST: A starting point* (40min)
     - System Properties
     - Architecture Constraints
